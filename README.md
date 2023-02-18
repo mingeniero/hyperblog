@@ -12,5 +12,6 @@ un blog increíble para el curso de Git y Github de Flansi
 * Creado por el increible Flansi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+>>>>>>> 97c82b6 (Creditos al team Flansi)
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
